@@ -618,8 +618,7 @@ public class Terrain implements Config {
     }
     
     public HashMap<Integer, Vector2D> findPath(Vector2D start_pos, Vector2D goal_pos) // A* Algorithm with Euclidean heuristic cost calculation and 4-direction movement
-    {                                                                             // start_pos and goal_pos must be valid bitmap keys
-        // implementation based on language-less pseudocode from https://en.wikipedia.org/wiki/A*_search_algorithm     
+    {                                                                             // start_pos and goal_pos must be valid bitmap keys    
         if (start_pos == null || goal_pos == null)
         {
             System.out.println("Invalid start_pos or goal_pos");

@@ -189,7 +189,7 @@ public class Game implements Config, ActionListener, KeyListener, MouseListener 
 
     @Override
     public void keyPressed(KeyEvent e) {
-        System.out.println("ENTER KEYPRESSED");
+        //System.out.println("ENTER KEYPRESSED");
         if (e.getKeyCode() == KeyEvent.VK_UP)
         {
             LocalPlayer.dir[0] = true;
@@ -337,4 +337,3 @@ public class Game implements Config, ActionListener, KeyListener, MouseListener 
     
 }
 
-// http://editphotosforfree.com/photoapps/remove-background-from-image-online/#
