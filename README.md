@@ -37,4 +37,4 @@ This application also showcases the following concepts in Java
   - Exception handling.
   - Several iteration techniques.
 
-This repository features all the source code in the Source Code folder, a compiled version called Guns&AI.jar, and this README.
+This repository features all the source code in the Source Code folder, a compiled version called Guns & AI.jar, and this README.
