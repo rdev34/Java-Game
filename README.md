@@ -17,7 +17,10 @@ Notable implementations include:
     - Infrequent rehashing with allowance of null "holes", allows bitmap to be the way it is.
     - Pre-optimized HashMaps (initial capacity and load factor) mitigate internal rehashing with volatile maps.
     - Allow for arbitrary access in various data structures used by the application, especially with respect to graph traversal.
-  
+  - Entity Collision
+    - All game entities registered with the bitmap can collide in two-dimensional space.
+    - Basic intersection calculations done on entities.
+    - Cell based entity implementation avoids using potentially exhaustive iteration on each frame.
  
   
 This application also showcases the following concepts in Java
