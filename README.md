@@ -39,3 +39,4 @@ This application also showcases the following concepts in Java
   - Several iteration techniques.
 
 This repository features all the source code in the Source Code folder, a compiled version called Guns & AI.jar, and this README.
+The source code in the repository was largely created in May of 2016.
