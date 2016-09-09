@@ -27,6 +27,7 @@ This application also showcases the following concepts in Java
   - Static and non-static class instances.
   - Interfaces.
   - Enumerators.
+  - Scope basics.
   - Class inheritance, including abstract methods.
   - Type casting with primitive and class types.
   - Usage of Java's Swing GUI library including transformations.
