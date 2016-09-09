@@ -32,7 +32,7 @@ This application also showcases the following concepts in Java
   - Type casting with primitive and class types.
   - Usage of Java's Swing GUI library including transformations.
   - Use of classes like HashMaps, Lists, BufferedImages, Timers, and Graphics.
-  - Use of project resources in NetBeans that allows for compiling.
+  - Use of project resources in NetBeans in a way that allows for compiling.
   - Use of Event Listeners to handle user input.
   - Use of the ternary operator and other shorthands.
   - Exception handling.
